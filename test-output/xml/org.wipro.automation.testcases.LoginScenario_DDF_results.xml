@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.153">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TC02_valid_Account_Login"
+                time="2.065"
+                classname="org.wipro.automation.testcases.LoginScenario_DDF">
+            </testcase>
+            <testcase
+                name="TC02_valid_Account_Login"
+                time="1.840"
+                classname="org.wipro.automation.testcases.LoginScenario_DDF">
+            </testcase>
+            <testcase
+                name="TC02_valid_Account_Login"
+                time="2.248"
+                classname="org.wipro.automation.testcases.LoginScenario_DDF">
+            </testcase>
+</testsuite>

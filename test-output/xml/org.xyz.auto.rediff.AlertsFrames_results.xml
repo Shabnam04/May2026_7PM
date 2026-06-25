@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.843">
+    <properties></properties>
+
+
+
+            <testcase
+                name="handleAlerts"
+                time="9.449"
+                classname="org.xyz.auto.rediff.AlertsFrames">
+            </testcase>
+            <testcase
+                name="handleFrames"
+                time="14.394"
+                classname="org.xyz.auto.rediff.AlertsFrames">
+            </testcase>
+</testsuite>

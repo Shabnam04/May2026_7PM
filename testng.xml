@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="demoTestNG.TestScenario11"/>
+      <class name="demoTestNG.TestScenario12"/>
+      <class name="org.xyz.auto.rediff.First_Automation"/>
+      <class name="org.xyz.auto.rediff.JyothiClass"/>
+      <class name="demoTestNG.TestScenario14"/>
+      <class name="org.wipro.automation.testcases.RegsiterScenario_DDF"/>
+      <class name="org.xyz.auto.rediff.CaptureScreenshot"/>
+      <class name="demoTestNG.TestScenario10"/>
+      <class name="demoTestNG.TestScenario15"/>
+      <class name="demoTestNG.TestScenario16"/>
+      <class name="org.wipro.automation.utilities.CaptureScreenshot"/>
+      <class name="demoTestNG.TestScenario9"/>
+      <class name="demoTestNG.TestScenario8"/>
+      <class name="demoTestNG.TestScenario3"/>
+      <class name="demoTestNG.TestScenario2"/>
+      <class name="demoTestNG.TestScenario1"/>
+      <class name="demoTestNG.TestScenario7"/>
+      <class name="demoTestNG.TestScenario6"/>
+      <class name="demoTestNG.TestScenario5"/>
+      <class name="demoTestNG.TestScenario4"/>
+      <class name="org.xyz.auto.rediff.KeyboardMouse"/>
+      <class name="org.wipro.automation.testcases.LoginScenario"/>
+      <class name="org.xyz.auto.rediff.AlertsFrames"/>
+      <class name="org.xyz.auto.rediff.CalendarDemo"/>
+      <class name="org.xyz.auto.rediff.SwagLabsLogin"/>
+      <class name="org.xyz.auto.rediff.DifferentConytrol"/>
+      <class name="org.wipro.automation.testcases.LoginScenario_DDF"/>
+      <class name="org.xyz.auto.rediff.BrowserControl"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

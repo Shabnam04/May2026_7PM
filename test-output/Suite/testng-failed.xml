@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="demoTestNG.TestScenario14">
+        <methods>
+          <include name="fifth_testcase"/>
+          <include name="forth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario14 -->
+      <class name="demoTestNG.TestScenario4">
+        <methods>
+          <include name="third_testcase"/>
+          <include name="fifth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario4 -->
+      <class name="demoTestNG.TestScenario12">
+        <methods>
+          <include name="fifth_testcase"/>
+          <include name="forth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario12 -->
+      <class name="demoTestNG.TestScenario11">
+        <methods>
+          <include name="forth_testcase"/>
+          <include name="fifth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario11 -->
+      <class name="org.xyz.auto.rediff.First_Automation">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="tc02_register_functionality"/>
+        </methods>
+      </class> <!-- org.xyz.auto.rediff.First_Automation -->
+      <class name="demoTestNG.TestScenario6">
+        <methods>
+          <include name="forth_testcase"/>
+          <include name="fifth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario6 -->
+      <class name="demoTestNG.TestScenario1">
+        <methods>
+          <include name="second_testcase"/>
+          <include name="third_testcase"/>
+          <include name="first_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario1 -->
+      <class name="demoTestNG.TestScenario15">
+        <methods>
+          <include name="fifth_testcase"/>
+          <include name="forth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario15 -->
+      <class name="demoTestNG.TestScenario9">
+        <methods>
+          <include name="forth_testcase"/>
+          <include name="fifth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario9 -->
+      <class name="demoTestNG.TestScenario16">
+        <methods>
+          <include name="forth_testcase"/>
+          <include name="fifth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario16 -->
+      <class name="org.xyz.auto.rediff.CalendarDemo">
+        <methods>
+          <include name="calendar_icon"/>
+        </methods>
+      </class> <!-- org.xyz.auto.rediff.CalendarDemo -->
+      <class name="demoTestNG.TestScenario13">
+        <methods>
+          <include name="fifth_testcase"/>
+          <include name="forth_testcase"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario13 -->
+      <class name="demoTestNG.TestScenario2">
+        <methods>
+          <include name="login"/>
+          <include name="registration"/>
+        </methods>
+      </class> <!-- demoTestNG.TestScenario2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

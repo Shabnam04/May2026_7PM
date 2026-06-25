@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.204">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TC03_valid_rediffmail_creation"
+                time="4.905"
+                classname="org.wipro.automation.testcases.RegsiterScenario_DDF">
+            </testcase>
+            <testcase
+                name="TC03_valid_rediffmail_creation"
+                time="5.816"
+                classname="org.wipro.automation.testcases.RegsiterScenario_DDF">
+            </testcase>
+            <testcase
+                name="TC03_valid_rediffmail_creation"
+                time="5.483"
+                classname="org.wipro.automation.testcases.RegsiterScenario_DDF">
+            </testcase>
+</testsuite>
